@@ -1,0 +1,4 @@
+{
+  "/api/post_tag/route": "app/api/post_tag/route.js",
+  "/api/post_meta/route": "app/api/post_meta/route.js"
+}
